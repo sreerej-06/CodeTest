@@ -23,8 +23,6 @@ public class GitServiceController {
 	
 	@PostMapping("/CloneGitRepository")
 	public String greeting(Model model) {
-
-		
 		return "Sree";
 	}
 
