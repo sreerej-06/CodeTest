@@ -25,7 +25,7 @@ public class GitServiceController {
 	public String greeting(Model model) {
 
 		
-		return "SreeTest1";
+		return "SreeTest2";
 	}
 
 	
