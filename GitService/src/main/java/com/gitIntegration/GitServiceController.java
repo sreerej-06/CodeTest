@@ -24,7 +24,7 @@ public class GitServiceController {
 	@PostMapping("/CloneGitRepository")
 	public Persons greeting(Model model) {
 
-		Persons S = new Persons(3, "RamHanuman");
+		Persons S = new Persons(3, "RamHanumans");
 		File localPath = new File ("F:\\Test");
 		/*
 		 * try {
